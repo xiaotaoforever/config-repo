@@ -1,3 +1,11 @@
+spring:
+  profiles: local
 feature:
   x:
     enable: true
+---
+spring:
+  profiles: dev
+feature:
+  x:
+    enable: false
