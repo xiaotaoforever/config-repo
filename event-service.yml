@@ -8,5 +8,5 @@ feature:
 #   x:
 #     enable: true
 config:
-	server:
-		uri: http://localhost:8080
+  server:
+    uri: http://localhost:8080
